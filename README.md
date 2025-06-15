@@ -5,8 +5,8 @@ information system requirements for any system application within an organizatio
 contents are sequentially organized directly from planning, analysis, designing and implementation
 phases. From the resulting output of the planning and analysis phase shall enable students to form
 input, output and interface design. Hence a prototype design can be demonstrated.
-TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
 
+TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
 Part 1
 ● Organizational impact on Information System
 ● Types of Information Systems
