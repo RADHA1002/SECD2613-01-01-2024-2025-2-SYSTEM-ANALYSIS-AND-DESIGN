@@ -68,6 +68,7 @@ Part 3
 ● Introduction of designing tools (Figma)
 
 TOPIC VI SYSTEMS IMPLEMENTATION
+
 Part 1
 ● User Testing and acceptance test
 ● Training plan & strategies
