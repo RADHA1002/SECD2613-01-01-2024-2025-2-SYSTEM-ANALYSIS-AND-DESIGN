@@ -1,0 +1,21 @@
+## OVERVIEW OF THE PROJECT 
+ 
+Grab is a popular mobile app used in Southeast Asia that offers many everyday services.
+It started as a ride-hailing app (like Uber), but now it’s a super app—meaning it combines many services in one app.
+Grab is a leading Southeast Asian super app that offers services like ride-hailing, food delivery, and digital payments.
+This proposal focuses on enhancing and analyse the existing Grab system of food delivery and grocery and package delivery to address performance inefficiencies and improve the overall user experience.
+Through a systematic approach in system analysis and design, the project will identify critical issues and propose viable solutions for optimization. Grab has emerged as a dominant force in the on-demand economy of Southeast Asia. 
+Initially launched as a ride-hailing platform, Grab has expanded its services to include transportation, food delivery, financial services, and more.
+
+## PROBLEM STATEMENT  
+
+The current Grab application, while functional, suffers from several issues. 
+These include inconsistent response times during peak usage, a complex user interface that confuses new users, and irregular fare pricing that leads to dissatisfaction. 
+The system’s feedback and support features are not easily accessible, which hinders timely problem resolution. 
+These problems are interrelated as performance and usability directly influence user retention and service efficiency. 
+
+## PROPOSED SOLUTIONS  
+ 
+	Redesign the user interface for clarity and ease-of-use for the customer feedback issues.
+	Implement AI-driven features: Personalized suggestions based on time of day, weather, mood (user-set), or dietary preferences. Users discover meals they’re more likely to enjoy and order. 
+	Real-time queue & prep time feature: Display how many orders are ahead and estimated prep time. Sets better expectations and reduces cancellations.  
