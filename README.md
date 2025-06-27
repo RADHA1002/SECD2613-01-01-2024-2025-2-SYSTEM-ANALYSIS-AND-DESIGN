@@ -23,6 +23,7 @@ Part 3
 
 
 
+
 TOPIC II PROJECT PLANNING PROCESS
 
 Part 1
@@ -42,6 +43,7 @@ Part 3
 
 
 
+
 TOPIC III INFORMATION REQUIREMENT TASK
 
 Part 1
@@ -51,6 +53,7 @@ Part 2
 ● Information Gathering – Unobtrusive Methods
 
 <img src="https://github.com/user-attachments/assets/e6f10c3d-ea53-42e0-a07e-e5ab0144a787" style="width: 600px; height: 500px; object-fit: cover;" />
+
 
 
 
@@ -76,6 +79,7 @@ Structured English)
 
 
 
+
 TOPIC V THE DESIGN TASK
 
 Part 1
@@ -90,6 +94,7 @@ Part 3
 ● Introduction of designing tools (Figma)
 
 <img src="https://github.com/user-attachments/assets/9dfcbf1a-a07c-420f-86cc-de153d80367b" style="width: 600px; height: 500px; object-fit: cover;" />
+
 
 TOPIC VI SYSTEMS IMPLEMENTATION
 
