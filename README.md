@@ -40,7 +40,7 @@ Part 3
 
 =Assigment 1
 
-<img src="https://github.com/user-attachments/assets/fb59b589-5fa9-4ac3-b71d-3ab1a709be0c" style="width: 600px; height: 600px; object-fit: cover;" />
+<img src="https://github.com/user-attachments/assets/fb59b589-5fa9-4ac3-b71d-3ab1a709be0c" style="width: 600px; height: 500px; object-fit: cover;" />
 
 
 
@@ -51,6 +51,10 @@ Part 1
 
 Part 2
 ● Information Gathering – Unobtrusive Methods
+
+<img src="https://github.com/user-attachments/assets/e6f10c3d-ea53-42e0-a07e-e5ab0144a787" style="width: 600px; height: 500px; object-fit: cover;" />
+
+
 
 TOPIC IV THE ANALYSIS PROCESS
 
