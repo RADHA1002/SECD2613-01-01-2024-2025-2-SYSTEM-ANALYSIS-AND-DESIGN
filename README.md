@@ -18,7 +18,7 @@ Part 2
 Part 3
 ● Types, trend and approach towards developing information system
 
-<img src="https://github.com/user-attachments/assets/f4b3cbd8-be4f-47e1-89e9-27df73027746" style="width: 100%; height: auto;" />
+<img src="https://github.com/user-attachments/assets/f4b3cbd8-be4f-47e1-89e9-27df73027746" style="width: 100%; height: 40;" />
 
 
 
