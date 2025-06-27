@@ -38,8 +38,6 @@ Part 3
 ● Project cost management (CBA)
 ● Project Management
 
-=Assigment 1
-
 <img src="https://github.com/user-attachments/assets/fb59b589-5fa9-4ac3-b71d-3ab1a709be0c" style="width: 600px; height: 500px; object-fit: cover;" />
 
 
@@ -60,8 +58,6 @@ TOPIC IV THE ANALYSIS PROCESS
 
 Part 1
 ● Introduction to Data Flow Diagrams (DFD)
-
-=Assignment 2
 
 Part 2
 ● DFD Errors
