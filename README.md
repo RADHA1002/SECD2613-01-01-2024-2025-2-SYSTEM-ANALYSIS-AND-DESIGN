@@ -76,6 +76,10 @@ Part 4
 Structured English)
 ● Design Structure Chart
 
+<img src="https://github.com/user-attachments/assets/79d90407-28a5-4d40-bf7c-f59779cab3de" style="width: 600px; height: 500px; object-fit: cover;" />
+
+
+
 TOPIC V THE DESIGN TASK
 
 Part 1
@@ -89,6 +93,8 @@ Part 3
 ● Storytelling HCI
 ● Introduction of designing tools (Figma)
 
+<img src="https://github.com/user-attachments/assets/9dfcbf1a-a07c-420f-86cc-de153d80367b" style="width: 600px; height: 500px; object-fit: cover;" />
+
 TOPIC VI SYSTEMS IMPLEMENTATION
 
 Part 1
@@ -97,5 +103,7 @@ Part 1
 
 Part 2
 ● Implementation plan & strategies
+
+<img src="https://github.com/user-attachments/assets/7231cfb6-a7d6-4204-acfb-d5bf837c2f82" style="width: 600px; height: 500px; object-fit: cover;" />
 
 
