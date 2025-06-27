@@ -40,6 +40,10 @@ Part 3
 
 =Assigment 1
 
+<img src="https://github.com/user-attachments/assets/fb59b589-5fa9-4ac3-b71d-3ab1a709be0c" style="width: 600px; height: 600px; object-fit: cover;" />
+
+
+
 TOPIC III INFORMATION REQUIREMENT TASK
 
 Part 1
