@@ -32,6 +32,7 @@ Part 2
 Part 3
 ● Project cost management (CBA)
 ● Project Management
+
 =Assigment 1
 
 TOPIC III INFORMATION REQUIREMENT TASK
@@ -46,6 +47,7 @@ TOPIC IV THE ANALYSIS PROCESS
 
 Part 1
 ● Introduction to Data Flow Diagrams (DFD)
+
 =Assignment 2
 
 Part 2
